@@ -13,7 +13,7 @@ public class Main {
         String answer = "The result is: ";
 
         System.out.println(answer + result);
-
+//codul nou
         float virgula = 43.23f;
         double rezultat = virgula + Nrsd;
         System.out.println(rezultat);
